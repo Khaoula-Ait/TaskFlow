@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow Desktop",
+  "description": "High-performance keyboard-first desktop to-do application with projects, time-blocking, Kanban boards, and focus timer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
